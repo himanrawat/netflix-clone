@@ -1,11 +1,12 @@
 import React from "react";
 import Hero from "./component/Hero/HeroSection";
-import Section from "./component/Section/Section";
+// import HeroTest from "./HeroTest";
+
 const App = () => {
 	return (
 		<>
 			<Hero />
-			<Section />
+			{/* <HeroTest /> */}
 		</>
 	);
 };
